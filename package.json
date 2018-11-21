@@ -1,0 +1,15 @@
+{
+  "name": "peoplehum-linkedin",
+  "version": "1.0.0",
+  "description": "test project for crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "author": "shalinee singh",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.10.0"
+  }
+}
